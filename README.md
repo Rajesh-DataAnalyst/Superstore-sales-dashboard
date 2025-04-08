@@ -16,7 +16,11 @@ This Power BI project analyzes sales performance using the global **Superstore d
 ## 🖼️ Dashboard Screenshots
 
 ### 🔹 Overview Page
-Shows KPIs (Sales, Profit, COGS, Units Sold), monthly trends, top products, and country/category breakdowns.
+
+- Summary KPIs: Sales, Profit, COGS, Units Sold, Profit %
+- Filters: Month, Market, Country, Year
+- Monthly Sales & Country Analysis
+- Product & Category Distribution
 
 <img width="596" alt="dashboard-overview" src="https://github.com/user-attachments/assets/66751c0b-d495-434c-be00-9add0126aa62" />
 
@@ -24,7 +28,9 @@ Shows KPIs (Sales, Profit, COGS, Units Sold), monthly trends, top products, and 
 ---
 
 ### 🔹 Analytics Page
-Analyzes order trends over time, sales by segment, and region-wise performance.
+- Order Date Trends
+- Segment Distribution
+- Month and Region-wise Performance
 
 <img width="596" alt="dashboard-analytics" src="https://github.com/user-attachments/assets/c413ab35-d2e1-48a6-9715-ab633cff0a37" />
 
@@ -32,7 +38,8 @@ Analyzes order trends over time, sales by segment, and region-wise performance.
 ---
 
 ### 🔹 Report View
-Detailed transaction-level table with filters by month, segment, country, and year.
+- Drill-down report by Year, Month, Segment, Country, Product
+- Key metrics: Sales, Profit, COGS, Units Sold, Profit %
 
 <img width="595" alt="dashboard-report" src="https://github.com/user-attachments/assets/f58992d6-6a9a-4f76-b183-2875d68d1ca1" />
 
@@ -49,4 +56,20 @@ Detailed transaction-level table with filters by month, segment, country, and ye
 - 📊 Fully interactive slicers for dynamic exploration
 
 ---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file.
+2. Open it in Power BI Desktop.
+3. Refresh data or apply filters as needed.
+4. Customize or extend visuals for deeper analysis.
+
+---
+
+## 📩 Contact
+
+**Name:** [Rajesh M]  
+**Email:** [rajesh.mr1308@gmail.com]  
+**LinkedIn:** [LinkedIn Profile Link]  
+**GitHub Portfolio:** [GitHub Link]
 
