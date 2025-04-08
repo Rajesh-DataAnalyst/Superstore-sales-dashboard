@@ -59,7 +59,7 @@ This Power BI project analyzes sales performance using the global **Superstore d
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file.
+1. Download the `Super_Store_Dashboard.pbix` file.
 2. Open it in Power BI Desktop.
 3. Refresh data or apply filters as needed.
 4. Customize or extend visuals for deeper analysis.
@@ -70,7 +70,9 @@ This Power BI project analyzes sales performance using the global **Superstore d
 
 **Name:** [Rajesh M]  
 **Email:** [rajesh.mr1308@gmail.com]  
-**LinkedIn:** [www.linkedin.com/in/rajesh-m-92b182341]  
+**LinkedIn:** [www.linkedin.com/in/rajesh-m-92b182341]
+**GitHub:** [https://github.com/Rajesh-DataAnalyst]
+
 
 ⭐ If you found this helpful, please give it a star!
 
