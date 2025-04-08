@@ -72,4 +72,5 @@ This Power BI project analyzes sales performance using the global **Superstore d
 **Email:** [rajesh.mr1308@gmail.com]  
 **LinkedIn:** [www.linkedin.com/in/rajesh-m-92b182341]  
 
+⭐ If you found this helpful, please give it a star!
 
