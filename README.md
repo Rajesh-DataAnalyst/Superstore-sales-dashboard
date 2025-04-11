@@ -43,6 +43,13 @@ This Power BI project analyzes sales performance using the global **Superstore d
 
 <img width="595" alt="dashboard-report" src="https://github.com/user-attachments/assets/f58992d6-6a9a-4f76-b183-2875d68d1ca1" />
 
+## 🎥 Dashboard Walkthrough Video
+
+Watch a full walkthrough of the dashboard here:
+
+
+https://github.com/user-attachments/assets/0116066b-76d2-404f-8fdc-aace8b1cbc15
+
 
 ---
 
