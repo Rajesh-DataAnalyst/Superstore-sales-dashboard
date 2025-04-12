@@ -21,15 +21,15 @@ Visual slicers allow quick comparisons and focused regional analysis.
 2. 📦 Product Performance
 Product-wise breakdown includes:
 
-Staples
+- Staples
 
-Acco Binder Covers
+- Acco Binder Covers
 
-Sanford Pencils
+- Sanford Pencils
 
-Avery Binding Machines
+- Avery Binding Machines
 
-Wilson Index Tabs
+- Wilson Index Tabs
 
 Top and bottom performers shown with bar/column charts and conditional formatting.
 
